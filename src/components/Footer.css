@@ -1,0 +1,13 @@
+footer.footer {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0px 25px;
+    background-color: yellow;
+    box-shadow: var(--shadow);
+}
+
+footer.footer > span {
+  font: italic bold 15px arial, sans-serif;
+  color: black;
+}

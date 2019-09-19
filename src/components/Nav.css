@@ -1,0 +1,13 @@
+.nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: blue;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.nav > i {
+    color: chartreuse;
+    margin: 0px 10px 10px 0px;
+}
